@@ -32,9 +32,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='demo.gif' title='Walkthrough' width='' alt='Walkthrough' />
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
